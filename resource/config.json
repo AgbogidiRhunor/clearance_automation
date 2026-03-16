@@ -1,0 +1,18 @@
+{
+    "credentials": {
+        "email": "okha@biu.edu.ng",
+        "password": "SLSDPassword0874"
+    },
+    "links": {
+        "login_url": "https://cell.biuportal.net/chapel.aspx",
+        "okha_chapel_clerance_url": "https://cell.biuportal.net/chapel.aspx",
+        "faith_arena_chapel_clerance_url": "https://cell.biuportal.net/FaithArenaChapel.aspx"
+    },
+    "execution_config": {
+        "day": "4",
+        "month": "12",
+        "running_mode": "chapel",
+        "number_of_processes": 4,
+        "active": false
+    }
+}
